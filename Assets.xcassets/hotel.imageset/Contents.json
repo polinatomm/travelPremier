@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "hotel-indigo-milan-6039494182-2x1.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "hotel-indigo-milan-6039494182-2x1-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "hotel-indigo-milan-6039494182-2x1-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
